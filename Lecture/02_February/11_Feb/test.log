@@ -1,0 +1,58 @@
+INFO:root:log this line of execution
+INFO:root:log this 2nd line of execution
+WARNING:root:This is my warning
+ERROR:root:This is my error
+CRITICAL:root:This is my critical
+INFO:root:This is my info logging
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+INFO:root:This is logging info test3
+ERROR:root:This is logging error test3
+CRITICAL:root:This is logging critical test3
+INFO:root:We are iterating through our list and local var is i [1, 2, 3, 4, [2, 3, 4], 'Aditya', 'Gargi']
+INFO:root:We are iterating through our list and local var is i [1, 2, 3, 4, [2, 3, 4], 'Aditya', 'Gargi']
+INFO:root:We are iterating through our list and local var is i [1, 2, 3, 4, [2, 3, 4], 'Aditya', 'Gargi']
+INFO:root:We are iterating through our list and local var is i [1, 2, 3, 4, [2, 3, 4], 'Aditya', 'Gargi']
+INFO:root:We are iterating through our list and local var is i [1, 2, 3, 4, [2, 3, 4], 'Aditya', 'Gargi']
+INFO:root:I am inside if statement and I am trying to check list type [2, 3, 4]
+INFO:root:I am inside another for loop for list inside list element 2
+INFO:root:i am inside if statement
+INFO:root:I am inside another for loop for list inside list element 3
+INFO:root:i am inside if statement
+INFO:root:I am inside another for loop for list inside list element 4
+INFO:root:i am inside if statement
+INFO:root:We are iterating through our list and local var is i [1, 2, 3, 4, [2, 3, 4], 'Aditya', 'Gargi']
+INFO:root:We are iterating through our list and local var is i [1, 2, 3, 4, [2, 3, 4], 'Aditya', 'Gargi']
+INFO:root:My final result for int is [1, 2, 3, 4, 2, 3, 4] and str is ['Aditya', 'Gargi']
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning msg
+ERROR:root:this is my error
+CRITICAL:root:this is my critical msg
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning msg
+ERROR:root:this is my error
+CRITICAL:root:this is my critical msg
+INFO:root:this is my info logging 
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging 
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:i am inside if statement and i am trying to check list type[2, 3, 4]
+INFO:root:i am in anothe for loop for list inside list element 2
+INFO:root:i am inside if statement
+INFO:root:i am in anothe for loop for list inside list element 3
+INFO:root:i am inside if statement
+INFO:root:i am in anothe for loop for list inside list element 4
+INFO:root:i am inside if statement
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:my final result for int is [1, 2, 3, 34, 4, 2, 3, 4] and str is ['sudh', 'kumar']

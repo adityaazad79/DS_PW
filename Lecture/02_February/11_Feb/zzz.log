@@ -1,0 +1,16 @@
+2023-02-12 14:55:48,214 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-12 14:55:48,214 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-12 14:55:48,215 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-12 14:55:48,215 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-12 14:55:48,215 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-12 14:55:48,215 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-12 14:55:48,215 root INFO  i am inside if statement and i am trying to check list type[2, 3, 4]
+2023-02-12 14:55:48,215 root INFO  i am in anothe for loop for list inside list element 2
+2023-02-12 14:55:48,215 root INFO  i am inside if statement
+2023-02-12 14:55:48,215 root INFO  i am in anothe for loop for list inside list element 3
+2023-02-12 14:55:48,215 root INFO  i am inside if statement
+2023-02-12 14:55:48,215 root INFO  i am in anothe for loop for list inside list element 4
+2023-02-12 14:55:48,215 root INFO  i am inside if statement
+2023-02-12 14:55:48,215 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-12 14:55:48,215 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-02-12 14:55:48,215 root INFO  my final result for int is [1, 2, 3, 34, 4, 2, 3, 4] and str is ['sudh', 'kumar']

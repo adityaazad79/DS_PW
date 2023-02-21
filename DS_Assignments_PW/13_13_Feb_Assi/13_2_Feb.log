@@ -1,0 +1,47 @@
+Python ArithmeticError hierarchy is : 
+ ArithmeticError
+#
+- FloatingPointError
+#
+- OverflowError
+#
+- ZeroDivisionError
+#
+-- DivisionByZero
+#
+-- DivisionUndefined
+#
+- DecimalException
+#
+-- Clamped
+#
+-- InvalidOperation
+#
+--- ConversionSyntax
+#
+--- DivisionImpossible
+#
+--- DivisionUndefined
+#
+--- InvalidContext
+#
+-- DivisionByZero
+#
+-- Inexact
+#
+--- Overflow
+#
+--- Underflow
+#
+-- Rounded
+#
+--- Overflow
+#
+--- Underflow
+#
+-- Subnormal
+#
+--- Underflow
+#
+-- FloatOperation
+#

@@ -1,0 +1,4 @@
+INFO:root:When exception is handled
+
+WARNING:root:The program has enounted an error as division by zero
+WARNING:root:Executing further lines of code...

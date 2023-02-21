@@ -1,0 +1,11 @@
+INFO:root:Exception occured as The input length is not an 5
+INFO:root:This is finally block
+I will run regardless of the error
+
+
+INFO:root:The input length is 5
+INFO:root:This is else block
+INFO:root:This is finally block
+I will run regardless of the error
+
+
