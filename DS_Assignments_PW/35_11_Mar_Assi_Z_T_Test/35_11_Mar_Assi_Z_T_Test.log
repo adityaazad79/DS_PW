@@ -1,0 +1,1818 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2023.4.2)  2 APR 2023 23:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/home/aditya/Documents/Learning/DS_PW/DS_Assignments_PW/35_11_Mar_Assi_Z_T_Te
+st/35_11_Mar_Assi_Z_T_Test.ipynb
+
+(/home/aditya/Documents/Learning/DS_PW/DS_Assignments_PW/35_11_Mar_Assi_Z_T_Tes
+t/35_11_Mar_Assi_Z_T_Test.ipynb
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2  "
+      cells": [
+? 
+Missing character: There is no " ("22) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no " ("22) in font nullfont!
+Missing character: There is no : ("3A) in font nullfont!
+Missing character: There is no [ ("5B) in font nullfont!
+Missing character: There is no " ("22) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.4    "cell_
+             type": "markdown",
+? 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+! You can't use `macro parameter character #' in math mode.
+l.7     "#
+          # Data Science Masters - Hindi - 11 Mar 2023"
+? 
+! You can't use `macro parameter character #' in math mode.
+l.7     "##
+            Data Science Masters - Hindi - 11 Mar 2023"
+? 
+! Extra }, or forgotten $.
+l.9   }
+       ,
+? 
+! You can't use `macro parameter character #' in math mode.
+l.14     "#
+           ### Q1. What is the difference between a t-test and a z-test? Pro...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.14     "##
+            ## Q1. What is the difference between a t-test and a z-test? Pro...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.14     "###
+             # Q1. What is the difference between a t-test and a z-test? Pro...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.14     "####
+               Q1. What is the difference between a t-test and a z-test? Pro...
+
+? 
+! Undefined control sequence.
+l.21 ... test hypotheses about population means.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.22 ...eir assumptions, application, and usage.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.23     "#
+           \n",
+? 
+! Undefined control sequence.
+l.23     "#\n
+             ",
+? 
+! Undefined control sequence.
+l.24 ...opulation standard deviation is unknown.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.25 ... deviation is known or can be estimated.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.26     "#
+           \n",
+? 
+! Undefined control sequence.
+l.26     "#\n
+             ",
+? 
+! Undefined control sequence.
+l.27 ...the means of two small samples (n < 30).\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.28 ...ook different versions of the same test.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.29 ...nce between the means of the two groups.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.30     "#
+           \n",
+? 
+! Undefined control sequence.
+l.30     "#\n
+             ",
+? 
+! Undefined control sequence.
+l.31 ...the means of two large samples (n ≥ 30).\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.32 ...nce between the means of the two cities.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.33     "#
+           \n",
+? 
+! Undefined control sequence.
+l.33     "#\n
+             ",
+? 
+! Undefined control sequence.
+l.34 ...he t-test when the sample size is large.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.42     "#
+           ### Q2. Differentiate between one-tailed and two-tailed tests. "
+? 
+! You can't use `macro parameter character #' in math mode.
+l.42     "##
+            ## Q2. Differentiate between one-tailed and two-tailed tests. "
+? 
+! You can't use `macro parameter character #' in math mode.
+l.42     "###
+             # Q2. Differentiate between one-tailed and two-tailed tests. "
+? 
+! You can't use `macro parameter character #' in math mode.
+l.42     "####
+               Q2. Differentiate between one-tailed and two-tailed tests. "
+? 
+! Undefined control sequence.
+l.49 ...s that are used in statistical analysis.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.50     "#
+           |\n",
+? 
+! Undefined control sequence.
+l.50     "#|\n
+              ",
+? 
+! Undefined control sequence.
+l.51 ...tionality of the alternative hypothesis.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.52     "#
+           \n",
+? 
+! Undefined control sequence.
+l.52     "#\n
+             ",
+? 
+! Undefined control sequence.
+l.53     "- One-tailed test\n
+                             ",
+? 
+! Undefined control sequence.
+l.54 ...n the population parameter being tested.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.55 ...ence of an effect in only one direction.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.56 ...the proportion of patients who recover).\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.57     "#
+           \n",
+? 
+! Undefined control sequence.
+l.57     "#\n
+             ",
+? 
+! Undefined control sequence.
+l.58     "- Two-tailed test\n
+                             ",
+? 
+! Undefined control sequence.
+l.59 ...specify the direction of the difference.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.60 ...idence of an effect in either direction.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.61 ...is biased towards either heads or tails.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.62     "#
+           \n",
+? 
+! Undefined control sequence.
+l.62     "#\n
+             ",
+? 
+! Undefined control sequence.
+l.63 ...nd the directionality of the hypothesis.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.64 ...two-tailed test may be more appropriate.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.72     "#
+           ### Q3. Explain the concept of Type 1 and Type 2 errors in hypoth...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.72     "##
+            ## Q3. Explain the concept of Type 1 and Type 2 errors in hypoth...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.72     "###
+             # Q3. Explain the concept of Type 1 and Type 2 errors in hypoth...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.72     "####
+               Q3. Explain the concept of Type 1 and Type 2 errors in hypoth...
+
+? 
+! Undefined control sequence.
+l.79 ...ect or fail to reject a null hypothesis.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.80     "#
+           \n",
+? 
+! Undefined control sequence.
+l.80     "#\n
+             ",
+? 
+! Undefined control sequence.
+l.81     "- Type 1 error\n
+                          ",
+? 
+! Undefined control sequence.
+l.82 ... - It is also known as a false positive.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.83 ...s when we reject a true null hypothesis.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.84 ... effect when in fact there is no effect.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.85 ... the level of significance for the test.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.87     "    #
+               \n",
+? 
+! Undefined control sequence.
+l.87     "    #\n
+                 ",
+? 
+! Undefined control sequence.
+l.88     "    - Example\n
+                         ",
+? 
+! Undefined control sequence.
+l.89 ...lysis with a significance level of 0.05.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.90 ...ity, the product has no effect on sales.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.91     "            - This is a Type 1 error.\n
+                                                 ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.92     "#
+           \n",
+? 
+! Undefined control sequence.
+l.92     "#\n
+             ",
+? 
+! Undefined control sequence.
+l.93     "- Type 2 error\n
+                          ",
+? 
+! Undefined control sequence.
+l.94 ... - It is also known as a false negative.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.95 ... fail to reject a false null hypothesis.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.96 ... effect when in fact there is an effect.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.97 ... effect size, and level of significance.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.98     "    #
+               \n",
+? 
+! Undefined control sequence.
+l.98     "    #\n
+                 ",
+? 
+! Undefined control sequence.
+l.99     "    - Example\n
+                         ",
+? 
+! Undefined control sequence.
+l.100 ...a patient who actually has the disease.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.101     "            - This is a Type 2 error.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.102     "#
+            \n",
+? 
+! Undefined control sequence.
+l.102     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.103 ... may increase the risk of Type 1 error.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.111     "#
+            ### Q4. Explain Bayes's theorem with an example."
+? 
+! You can't use `macro parameter character #' in math mode.
+l.111     "##
+             ## Q4. Explain Bayes's theorem with an example."
+? 
+! You can't use `macro parameter character #' in math mode.
+l.111     "###
+              # Q4. Explain Bayes's theorem with an example."
+? 
+! You can't use `macro parameter character #' in math mode.
+l.111     "####
+                Q4. Explain Bayes's theorem with an example."
+? 
+! Undefined control sequence.
+l.118 ..., an 18th-century British statistician.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.119 ...ship between conditional probabilities.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.120 ..., based on new evidence or information.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.121     "#
+            \n",
+? 
+! Undefined control sequence.
+l.121     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.122 ...Mathematically, it can be expressed as:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.123     "    - P(A|B) = P(B|A) * P(A) / P(B)\n
+                                                ",
+? 
+! Undefined control sequence.
+l.124     "        - where:\n
+                             ",
+? 
+! Undefined control sequence.
+l.125 ...he conditional probability of A given B\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.126 ...he conditional probability of B given A\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.127 ...   - P(A) is the prior probability of A\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.128 ...   - P(B) is the prior probability of B\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.129     "            #
+                        \n",
+? 
+! Undefined control sequence.
+l.129     "            #\n
+                          ",
+? 
+! Undefined control sequence.
+l.130     "- Example\n
+                      ",
+? 
+! Undefined control sequence.
+l.132 ...ty that they actually have the disease?\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.133     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.133     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.134     "    Solution:\n
+                          ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.135     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.135     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.136 ... calculate this probability as follows:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.137 ...Let A = the event of having the disease\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.138 ...ent of testing positive for the disease\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.139 ...rior probability of having the disease)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.140 ...ositive given that he have the disease)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.141 ...iven that he does not have the disease)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.142 ... probability of not having the disease)\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.143     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.143     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.144 ...e disease given a positive test result:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.145 ...        - P(A|B) = P(B|A) * P(A) / P(B)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.146 ... 0.01 / ((0.99 * 0.01) + (0.01 * 0.99))\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.147     "        - P(A|B) = 0.50\n
+                                    ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.148     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.148     "    #\n
+                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.157     "#
+            ### Q5. What is a confidence interval? How to calculate the conf...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.157     "##
+             ## Q5. What is a confidence interval? How to calculate the conf...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.157     "###
+              # Q5. What is a confidence interval? How to calculate the conf...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.157     "####
+                Q5. What is a confidence interval? How to calculate the conf...
+
+? 
+! Undefined control sequence.
+l.164 ...on, with a certain level of confidence.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.165 ... true population parameter lies within.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.166     "#
+            \n",
+? 
+! Undefined control sequence.
+l.166     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.167 ... accounts for the sampling variability.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.168 ... determined by the level of confidence.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.169     "#
+            \n",
+? 
+! Undefined control sequence.
+l.169     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.170 ...rval, we need to determine three things\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.171     "    - The sample statistic\n
+                                       ",
+? 
+! Undefined control sequence.
+l.172     "    - The level of confidence\n
+                                          ",
+? 
+! Undefined control sequence.
+l.173     "    - The margin of error\n
+                                      ",
+? 
+! Undefined control sequence.
+l.174 ...fer from the true population parameter.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.175     "#
+            \n",
+? 
+! Undefined control sequence.
+l.175     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.176     "- Example\n
+                      ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.178     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.178     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.179     "    - Solution\n
+                           ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.180     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.180     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.181 ...rval, we can use the following formula:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.182 ...erval = sample mean +/- margin of error\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.183     "            - where,\n
+                                 ",
+? 
+! Undefined control sequence.
+l.184 ...value multiplied by the standard error.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.185     "                #
+                            \n",
+? 
+! Undefined control sequence.
+l.185     "                #\n
+                              ",
+? 
+! Undefined control sequence.
+l.186 ...dence and the degrees of freedom (n-1).\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.188 ... by the square root of the sample size.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.189     "        - std = 3 / sqrt(100) = 0.3.\n
+                                                 ",
+? 
+! Undefined control sequence.
+l.190 ... these values into the formula, we get:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.191 ...fidence interval = 68 +/- (1.984 * 0.3)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.192     "    - Confidence  = 68 +/- 0.5952\n
+                                              ",
+? 
+! Undefined control sequence.
+l.193 ...onfidence interval = (67.4048, 68.5952)\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.194     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.194     "    #\n
+                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.203     "#
+            ### Q6. Use Bayes' Theorem to calculate the probability of an ev...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.203     "##
+             ## Q6. Use Bayes' Theorem to calculate the probability of an ev...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.203     "###
+              # Q6. Use Bayes' Theorem to calculate the probability of an ev...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.203     "####
+                Q6. Use Bayes' Theorem to calculate the probability of an ev...
+
+? 
+! Undefined control sequence.
+l.211 ...ew evidence. The formula is as follows:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.212     "    - P(A|B) = P(B|A) x P(A) / P(B)\n
+                                                ",
+? 
+! Undefined control sequence.
+l.213     "        - Where:\n
+                             ",
+? 
+! Undefined control sequence.
+l.214 ...event occurring given the new evidence)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.215 ...new evidence given the event occurring)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.216 ... before any new evidence is considered)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.217 ...bability of the new evidence occurring)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.218 ...to illustrate how Bayes' theorem works:\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.219     "#
+            \n",
+? 
+! Undefined control sequence.
+l.219     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.220     "- Sample Problem\n
+                             ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.222     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.222     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.223     "    - Solution:\n
+                            ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.224     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.224     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.225 ...the probabilities given in the problem:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.226 ...prior probability of being left-handed)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.227 ...dy, given that a person is left-handed)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.228 ...given that a person is not left-handed)\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.229     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.229     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.230 ... and not being left-handed add up to 1.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.231     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.231     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.232 ... by using the law of total probability:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.233 ...= P(B|A) x P(A) + P(B|not A) x P(not A)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.234     "    - = 0.15 x 0.1 + 0.85 x 0.9\n
+                                            ",
+? 
+! Undefined control sequence.
+l.235     "    - = 0.165\n
+                          ",
+? 
+! Undefined control sequence.
+l.236 ...e probability of not being left-handed.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.237     "\n
+             ",
+? 
+! Undefined control sequence.
+l.238 ...ing left-handed given the new evidence:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.239     "    - P(A|B) = P(B|A) x P(A) / P(B)\n
+                                                ",
+? 
+! Undefined control sequence.
+l.240     "    - = 0.15 x 0.1 / 0.165\n
+                                       ",
+? 
+! Undefined control sequence.
+l.241 ...0.0909 (rounded to four decimal places)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.242     "\n
+             ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.250     "#
+            ### Q7. Calculate the 95% confidence interval for a sample of da...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.250     "##
+             ## Q7. Calculate the 95% confidence interval for a sample of da...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.250     "###
+              # Q7. Calculate the 95% confidence interval for a sample of da...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.250     "####
+                Q7. Calculate the 95% confidence interval for a sample of da...
+
+? 
+! Undefined control sequence.
+l.259     "    - CI = x̄ ± z * (σ/√n)\n
+                                       ",
+? 
+! Undefined control sequence.
+l.260     "        - Where,\n
+                             ",
+? 
+! Undefined control sequence.
+l.261 ...x̄ is the sample mean (50 in this case)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.262 ...tion as an estimate when it is unknown)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.263     "            - n is the sample size\n
+                                               ",
+? 
+! Undefined control sequence.
+l.265     "    - Putting in the values, we get:\n
+                                                 ",
+? 
+! Undefined control sequence.
+l.266     "        - CI = 50 ± 1.96 * (5/√n)\n
+                                              ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.267     "        #
+                    \n",
+? 
+! Undefined control sequence.
+l.267     "        #\n
+                      ",
+? 
+! Undefined control sequence.
+l.268 ...t's assume that the sample size is 100:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.269     "    - CI = 50 ± 1.96 * (5/√100)\n
+                                            ",
+? 
+! Undefined control sequence.
+l.270     "    - = 50 ± 0.98\n
+                              ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.272     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.272     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.273     "- Interpretation\n
+                             ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.282     "#
+            ### Q8. What is the margin of error in a confidence interval? Ho...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.282     "##
+             ## Q8. What is the margin of error in a confidence interval? Ho...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.282     "###
+              # Q8. What is the margin of error in a confidence interval? Ho...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.282     "####
+                Q8. What is the margin of error in a confidence interval? Ho...
+
+? 
+! Undefined control sequence.
+l.290 ...ter with a certain level of confidence.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.291 ...ning the estimate becomes more precise.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.292     "#
+            \n",
+? 
+! Undefined control sequence.
+l.292     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.293 ...epresentative sample of the population.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.294     "#
+            \n",
+? 
+! Undefined control sequence.
+l.294     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.295     "- Example\n
+                      ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.297     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.297     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.298 ...  - CI = 0.6 ± 1.96 * √(0.6 * 0.4 / 50)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.299     "    - = (0.477, 0.723)\n
+                                   ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.300     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.300     "    #\n
+                  ",
+? 
+! Undefined control sequence.
+l.302 ... - CI = 0.6 ± 1.96 * √(0.6 * 0.4 / 500)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.303     "    - = (0.569, 0.631)\n
+                                   ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.304     "#
+            \n",
+? 
+! Undefined control sequence.
+l.304     "#\n
+              ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.313     "#
+            ### Q9. Calculate the z-score for a data point with a value of 7...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.313     "##
+             ## Q9. Calculate the z-score for a data point with a value of 7...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.313     "###
+              # Q9. Calculate the z-score for a data point with a value of 7...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.313     "####
+                Q9. Calculate the z-score for a data point with a value of 7...
+
+? 
+! Undefined control sequence.
+l.321 ...culate the z-score, we use the formula:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.322     "    - z = (x - μ) / σ\n
+                                  ",
+? 
+! Undefined control sequence.
+l.323     "        - Where,\n
+                             ",
+? 
+! Undefined control sequence.
+l.324 ..."            - x = the data point value\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.325     "            - μ = the population mean\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.326 ...- σ = the population standard deviation\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.327     "            #
+                        \n",
+? 
+! Undefined control sequence.
+l.327     "            #\n
+                          ",
+? 
+! Undefined control sequence.
+l.328     "    - Putting in the values we have:\n
+                                                 ",
+? 
+! Undefined control sequence.
+l.329     "    - z = (75 - 70) / 5\n
+                                    ",
+? 
+! Undefined control sequence.
+l.330     "    - z = 1\n
+                        ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.331     "#
+            \n",
+? 
+! Undefined control sequence.
+l.331     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.332     "- Interpretation\n
+                             ",
+? 
+! Undefined control sequence.
+l.333 ...rd deviation above the population mean.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.334 ...typical observation in this population.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.343     "#
+            ### Q10. In a study of the effectiveness of a new weight loss dr...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.343     "##
+             ## Q10. In a study of the effectiveness of a new weight loss dr...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.343     "###
+              # Q10. In a study of the effectiveness of a new weight loss dr...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.343     "####
+                Q10. In a study of the effectiveness of a new weight loss dr...
+
+? 
+! Undefined control sequence.
+l.352 ...oss from the drug is equal to 0 pounds.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.353 ...from the drug is greater than 0 pounds.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.354     "#
+            \n",
+? 
+! Undefined control sequence.
+l.354     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.355 ...the mean weight loss is greater than 0.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.356     "- The t-test statistic formula is:\n
+                                               ",
+? 
+! Undefined control sequence.
+l.357     "    - t = (x̄ - μ) / (s / √n)\n
+                                          ",
+? 
+! Undefined control sequence.
+l.358     "        - Where:\n
+                             ",
+? 
+! Undefined control sequence.
+l.359     "            - x̄ = sample mean\n
+                                           ",
+? 
+! Undefined control sequence.
+l.360 ...sized population mean (in this case, 0)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.361 ...        - s = sample standard deviation\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.362     "            - n = sample size\n
+                                          ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.363     "            #
+                        \n",
+? 
+! Undefined control sequence.
+l.363     "            #\n
+                          ",
+? 
+! Undefined control sequence.
+l.364     "    - Putting in the values we have:\n
+                                                 ",
+? 
+! Undefined control sequence.
+l.365     "    - t = (6 - 0) / (2.5 / √50)\n
+                                            ",
+? 
+! Undefined control sequence.
+l.366     "    - t = 12\n
+                         ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.367     "#
+            \n",
+? 
+! Undefined control sequence.
+l.367     "#\n
+              ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.369     "#
+            \n",
+? 
+! Undefined control sequence.
+l.369     "#\n
+              ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.371     "#
+            \n",
+? 
+! Undefined control sequence.
+l.371     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.372     "- Conclusion\n
+                         ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.381     "#
+            ### 11. In a survey of 500 people, 65% reported being satisfied ...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.381     "##
+             ## 11. In a survey of 500 people, 65% reported being satisfied ...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.381     "###
+              # 11. In a survey of 500 people, 65% reported being satisfied ...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.381     "####
+                11. In a survey of 500 people, 65% reported being satisfied ...
+
+? 
+! Undefined control sequence.
+l.390     "    - CI = p ± z* (sqrt(p*(1-p)/n))\n
+                                                ",
+? 
+! Undefined control sequence.
+l.391     "        - Where:\n
+                             ",
+? 
+! Undefined control sequence.
+l.392 ...           - p is the sample proportion\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.394     "            - n is the sample size\n
+                                               ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.395     "            #
+                        \n",
+? 
+! Undefined control sequence.
+l.395     "            #\n
+                          ",
+? 
+! Undefined control sequence.
+l.396     "- Putting in the values we have:\n
+                                             ",
+? 
+! Undefined control sequence.
+l.397 ...65 ± 1.96 * (sqrt(0.65 * (1-0.65)/500))\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.398     "    - CI = 0.65 ± 0.042\n
+                                    ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.399     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.399     "    #\n
+                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.401     "#
+            \n",
+? 
+! Undefined control sequence.
+l.401     "#\n
+              ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.410     "#
+            ### Q12. A researcher is testing the effectiveness of two differ...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.410     "##
+             ## Q12. A researcher is testing the effectiveness of two differ...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.410     "###
+              # Q12. A researcher is testing the effectiveness of two differ...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.410     "####
+                Q12. A researcher is testing the effectiveness of two differ...
+
+? 
+! Undefined control sequence.
+l.418 ...up the null and alternative hypotheses.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.419 ...ean scores of the two teaching methods.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.420 ...ean scores of the two teaching methods.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.421     "#
+            \n",
+? 
+! Undefined control sequence.
+l.421     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.422 ... get the critical values for each tail.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.423     "#
+            \n",
+? 
+! Undefined control sequence.
+l.423     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.424 ...itical t-value of approximately ±2.602.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.425     "#
+            \n",
+? 
+! Undefined control sequence.
+l.425     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.426 ...tic formula for independent samples is:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.427 ... - x̄2) / (sqrt((s1^2/n1) + (s2^2/n2)))\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.428     "        - Where:\n
+                             ",
+? 
+! Undefined control sequence.
+l.429 ...        - x̄1 = sample mean of sample A\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.430 ...        - x̄2 = sample mean of sample B\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.431 ...= sample standard deviation of sample A\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.432 ...= sample standard deviation of sample B\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.433 ..."        - n1 = sample size of sample A\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.434 ..."        - n2 = sample size of sample B\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.435     "#
+            \n",
+? 
+! Undefined control sequence.
+l.435     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.436     "- Putting in the values we have:\n
+                                             ",
+? 
+! Undefined control sequence.
+l.437 ...5 - 82) / (sqrt((6^2/100) + (5^2/100)))\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.438     "    - t = 1.78\n
+                           ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.439     "#
+            \n",
+? 
+! Undefined control sequence.
+l.439     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.440 ... we fail to reject the null hypothesis.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.441     "#
+            \n",
+? 
+! Undefined control sequence.
+l.441     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.442     "- Conclusion\n
+                         ",
+? 
+! Undefined control sequence.
+l.443 ...ethods at a significance level of 0.01.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.444     "#
+            \n",
+? 
+! Undefined control sequence.
+l.444     "#\n
+              ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.453     "#
+            ### Q13. A population has a mean of 60 and a standard deviation ...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.453     "##
+             ## Q13. A population has a mean of 60 and a standard deviation ...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.453     "###
+              # Q13. A population has a mean of 60 and a standard deviation ...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.453     "####
+                Q13. A population has a mean of 60 and a standard deviation ...
+
+? 
+! Undefined control sequence.
+l.462     "    - CI = x̄ ± z* (s / √n)\n
+                                        ",
+? 
+! Undefined control sequence.
+l.463     "        - where,\n
+                             ",
+? 
+! Undefined control sequence.
+l.464     "            - x̄ is the sample mean\n
+                                                ",
+? 
+! Undefined control sequence.
+l.466 ... s is the population standard deviation\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.467     "            - n is the sample size\n
+                                               ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.468     "            #
+                        \n",
+? 
+! Undefined control sequence.
+l.468     "            #\n
+                          ",
+? 
+! Undefined control sequence.
+l.469     "    - Putting in the values we have:\n
+                                                 ",
+? 
+! Undefined control sequence.
+l.470     "        - CI = 65 ± 1.645 * (8 / √50)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.471     "        - CI = 65 ± 2.36\n
+                                     ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.472     "        #
+                    \n",
+? 
+! Undefined control sequence.
+l.472     "        #\n
+                      ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.474     "#
+            \n",
+? 
+! Undefined control sequence.
+l.474     "#\n
+              ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.483     "#
+            ### Q14. In a study of the effects of caffeine on reaction time,...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.483     "##
+             ## Q14. In a study of the effects of caffeine on reaction time,...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.483     "###
+              # Q14. In a study of the effects of caffeine on reaction time,...
+
+? 
+! You can't use `macro parameter character #' in math mode.
+l.483     "####
+                Q14. In a study of the effects of caffeine on reaction time,...
+
+? 
+! Undefined control sequence.
+l.491 ...up the null and alternative hypotheses.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.492 ...no significant effect on reaction time.\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.493 ... a significant effect on reaction time.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.494     "#
+            \n",
+? 
+! Undefined control sequence.
+l.494     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.496 ...ritical t-value of approximately 1.697.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.497     "#
+            \n",
+? 
+! Undefined control sequence.
+l.497     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.498 ...test statistic formula for a sample is:\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.499     "    - t = (x̄ - μ) / (s / √n)\n
+                                          ",
+? 
+! Undefined control sequence.
+l.500     "        - Where,\n
+                             ",
+? 
+! Undefined control sequence.
+l.501     "            - x̄ = sample mean\n
+                                           ",
+? 
+! Undefined control sequence.
+l.502 ...affeine has no effect on reaction time)\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.503 ...        - s = sample standard deviation\n
+                                                  ",
+? 
+! Undefined control sequence.
+l.504     "            - n = sample size\n
+                                          ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.505     "            #
+                        \n",
+? 
+! Undefined control sequence.
+l.505     "            #\n
+                          ",
+? 
+! Undefined control sequence.
+l.506     "- Putting in the values we have:\n
+                                             ",
+? 
+! Undefined control sequence.
+l.507     "    - t = (0.25 - 0) / (0.05 / √30)\n
+                                                ",
+? 
+! Undefined control sequence.
+l.508     "    - t = 8.66\n
+                           ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.509     "#
+            \n",
+? 
+! Undefined control sequence.
+l.509     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.510 ... 1.697), we reject the null hypothesis.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.511     "#
+            \n",
+? 
+! Undefined control sequence.
+l.511     "#\n
+              ",
+? 
+! Undefined control sequence.
+l.512     "- Conclusion\n
+                         ",
+? 
+! Undefined control sequence.
+l.513 ...on time at a significance level of 0.1.\n
+                                                  ",
+? 
+! You can't use `macro parameter character #' in math mode.
+l.514     "    #
+                \n",
+? 
+! Undefined control sequence.
+l.514     "    #\n
+                  ",
+? 
+! Extra }, or forgotten $.
+l.540 }
+       
+? 
+)
+*
+! Missing $ inserted.
+<inserted text> 
+                $
+<*> 
+    
+? 
+Missing character: There is no ≥ ("2265) in font cmr10!
+Missing character: There is no ≥ ("2265) in font cmr10!
+Missing character: There is no α ("3B1) in font cmmi10!
+Missing character: There is no β ("3B2) in font cmmi10!
+Missing character: There is no α ("3B1) in font cmmi10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no σ ("3C3) in font cmmi10!
+Missing character: There is no √ ("221A) in font cmr10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no σ ("3C3) in font cmmi10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no √ ("221A) in font cmr10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no √ ("221A) in font cmr10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no √ ("221A) in font cmr10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no √ ("221A) in font cmr10!
+Missing character: There is no μ ("3BC) in font cmmi10!
+Missing character: There is no σ ("3C3) in font cmmi10!
+Missing character: There is no μ ("3BC) in font cmmi10!
+Missing character: There is no σ ("3C3) in font cmmi10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no μ ("3BC) in font cmmi10!
+Missing character: There is no √ ("221A) in font cmr10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no μ ("3BC) in font cmmi10!
+Missing character: There is no √ ("221A) in font cmr10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no √ ("221A) in font cmr10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no √ ("221A) in font cmr10!
+Missing character: There is no ± ("B1) in font cmr10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no μ ("3BC) in font cmmi10!
+Missing character: There is no √ ("221A) in font cmr10!
+Missing character: There is no ̄ ("304) in font cmmi10!
+Missing character: There is no μ ("3BC) in font cmmi10!
+Missing character: There is no μ ("3BC) in font cmmi10!
+Missing character: There is no √ ("221A) in font cmr10!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--0
+[]
+ []
+
+
+Overfull \hbox (29.02547pt too wide) in paragraph at lines 2--0
+[]\OML/cmm/m/it/10 ype\OT1/cmr/m/n/10 " :
+ []
+
+
+Overfull \hbox (119.58006pt too wide) in paragraph at lines 2--0
+\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 markdown\OT1/cmr/m/n/10 "\OML/cmm/m/it/10 ; \
+OT1/cmr/m/n/10 "\OML/cmm/m/it/10 metadata\OT1/cmr/m/n/10 " :
+ []
+
+
+Overfull \hbox (49.03244pt too wide) in paragraph at lines 2--0
+[]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 source\OT1/cmr/m/n/10 " 
+:
+ []
+
+
+Overfull \hbox (110.92818pt too wide) in paragraph at lines 2--0
+\OT1/cmr/m/n/10 ["\OML/cmm/m/it/10 DataScienceMasters \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (35.00024pt too wide) in paragraph at lines 2--0
+\OML/cmm/m/it/10 Hindi \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (96641.09908pt too wide) in paragraph at lines 2--0
+\OT1/cmr/m/n/10 11\OML/cmm/m/it/10 Mar\OT1/cmr/m/n/10 2023"]\OML/cmm/m/it/10 ; 
+[]; []; []; []; []; []; []; []; []; []; []; []; []; []; []; []; []; []; []; [];
+ []; []; []; []; []; []; []; []\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 ; \OT1/cmr/m/n
+/10 "\OML/cmm/m/it/10 metadata\OT1/cmr/m/n/10 " :
+ []
+
+
+Overfull \hbox (1543.50107pt too wide) in paragraph at lines 2--0
+[]\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 nbformat\OT1/cmr/m/n/10 
+" :
+ []
+
+
+Overfull \hbox (95.26015pt too wide) in paragraph at lines 2--0
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 "\OML/cmm/m/it/10 nbformat[
+]inor\OT1/cmr/m/n/10 " :
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 2--0
+\OT1/cmr/m/n/10 2$ 
+ []
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*\end
+
+*
+Runaway 
